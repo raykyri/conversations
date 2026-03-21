@@ -84,7 +84,7 @@
    Wage polarization could take a surprising shape. Rather than the usual high-skill-vs-low-skill story, you might get a barbell where high-skill cognitive workers and physical-service workers both do well, while the middle band of cognitive workers — the people who thought they were safe because they went to college and got an office job — experience the most disruption. This is politically volatile because it hits the demographic that considers itself middle class.
    
    One wild card: the productivity gains might not show up in GDP the way economists expect, because a lot of what AI enables is *cost reduction* rather than *new output*. A company that replaces five analysts with one analyst plus AI tools hasn't created new economic activity — it's just captured margin. If this pattern dominates, you could get a world that feels richer at the firm level but stagnant or worse at the aggregate level, with the gains flowing to capital rather than labor. This would look a lot like the productivity paradox of the last few decades, just more intense.
-
+   
    {>> Alright, these are pretty familiar, we could try probing around the industries that are seeing a lot of automation and try to sketch out that that looks like given what we're seeing today, and projections. We could start with what the world looks like with massive capital concentration, that probably takes us toward economic history. We could also just ask for more unconventional/offbeat takes too. <<}
    
 -* What's the productivity paradox of the last few decades?
