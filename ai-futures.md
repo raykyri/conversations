@@ -31,7 +31,7 @@
    
    Your additional factors are doing real work here. I'd break it into something like:
    
-   **Formalization** — how much of the domain's knowledge is explicit, written down, and structured. Actu arial tables, codebases, legal statutes are highly formalized. Medical diagnosis is partly formalized but heavily dependent on tacit pattern recognition and physical examination. Trades are deeply embodied.
+   **Formalization** — how much of the domain's knowledge is explicit, written down, and structured. Actuarial tables, codebases, legal statutes are highly formalized. Medical diagnosis is partly formalized but heavily dependent on tacit pattern recognition and physical examination. Trades are deeply embodied.
    
    **Error tolerance** — software has unit tests, version control, easy rollback. If an AI writes bad code, you catch it relatively quickly. If an AI gives bad legal advice or a wrong diagnosis, the failure mode is much worse and much harder to detect. This is partly about the domain and partly about institutional structure.
    
