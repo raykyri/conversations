@@ -1,3 +1,6 @@
-Conversations with LLMs from inside the input.md interface.
+This is a playground repo for conversations with language models inside Input.md. Please feel free to click around, and enjoy your stay!
 
-- [[Solomonoff]] - asking Claude about Solomonoff induction
+- [[ai-futures]] - A short exploration related to AI futures.
+- [[hci]] - Asking for human-computer interaction ideas to extend this text editor.
+- [[permission]] - Asking about social permission. Gemini Flash was used for this conversation.
+- [[solomonoff]] - What's Solomonoff induction again?
