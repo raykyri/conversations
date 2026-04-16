@@ -1,4 +1,6 @@
-
+---
+title: AI Futures
+---
 
 ~ It seems like AI is affecting people I know in technical domains a lot more than it's affecting people outside. Roughly, in order, programmers > analysts > actuaries > lawyers > doctors > people in the trades and manual labor. I'm sure people have made observations about this, but is there anyone who has tried to extrapolate this to how a software singularity would go?
 ⏺ You're touching on something that a number of thinkers have discussed, though the framing varies.
