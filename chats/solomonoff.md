@@ -1,3 +1,7 @@
+---
+title: Explain Solomonoff Induction
+---
+
 ~ Can you explain Solomonoff induction?
 ⏺ Solomonoff induction is a theoretical framework for optimal prediction, developed by Ray Solomonoff in the 1960s. The core idea is to formalize Occam's razor using algorithmic information theory.
 
