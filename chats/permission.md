@@ -1,3 +1,7 @@
+---
+title: Asking for permission
+---
+
 ~ has anyone talked about how twitter is a medium where other people putting their thoughts up gives you permission to put yours up? or the social proof or mimetic (memetic?) element of social media and writing in public
   ⏺ Yes, this concept is a core theme in digital philosophy and media theory. Many thinkers have explored how public writing platforms function as permission engines through social proof and mimetic desire.
     
