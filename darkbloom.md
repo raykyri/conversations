@@ -112,14 +112,13 @@ The coordinator validates this chain against the embedded Apple root CA. This is
 
 Section 9.3 describes an interesting workaround. Apple's MDA-generated keys are stored in a platform-restricted keychain that third-party apps can't access, even with Developer ID signing. So the MDA P-384 key is verifiable but unusable for the actual inference protocol. The paper bridges this gap using the MDA attestation nonce as a binding channel:
 
-```
-Provider generates SE P-256 key k, sends pk_k to coordinator
-Coordinator computes n = base64(SHA-256(pk_k))
-Coordinator sends MDM DeviceInformation command with DeviceAttestationNonce = n
-Apple generates a fresh MDA cert chain with FreshnessCode = SHA-256(n) baked into the leaf certificate
-Coordinator verifies the chain and confirms FreshnessCode == SHA-256(n)
+- Provider generates SE P-256 key k, sends pk_k to coordinator
+- Coordinator computes n = base64(SHA-256(pk_k))
+- Coordinator sends MDM DeviceInformation command with DeviceAttestationNonce = n
+- Apple generates a fresh MDA cert chain with FreshnessCode = SHA-256(n) baked into the leaf certificate
+- Coordinator verifies the chain and confirms FreshnessCode == SHA-256(n)
+
 This cryptographically binds the usable P-256 key to the Apple-attested genuine hardware, without ever having to use the platform-restricted MDA key directly for signing. It's a binding via a third party (Apple) rather than a direct chain.
-```
 
 Summary of the trust chain:
 
