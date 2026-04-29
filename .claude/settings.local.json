@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "WebFetch(domain:storage.googleapis.com)",
-      "WebFetch(domain:www.oecd.org)"
+      "WebFetch(domain:www.oecd.org)",
+      "WebFetch(domain:arxiv.org)",
+      "WebFetch(domain:www.arxiv.org)"
     ]
   }
 }
